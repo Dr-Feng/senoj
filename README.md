@@ -1,4 +1,4 @@
-# senoj-frontend
+# senoj
 
 ## Project setup
 ```
